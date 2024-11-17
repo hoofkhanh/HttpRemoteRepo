@@ -7,20 +7,11 @@ html6
 html7
 html7
 html8
-
 html10
 html11
-
 html12
-
 html1
 html13
-<<<<<<< HEAD
-
-=======
 html14
-<<<<<<< HEAD
->>>>>>> 6ec1b4408189c15e87cd722714d5d1a3895c2706
-=======
 html15
->>>>>>> 26798089cc847552a128b3240d39e2d4f69a3ccd
+html16
