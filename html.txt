@@ -2,4 +2,8 @@ html
 html
 html
 html
+<<<<<<< HEAD
 html5
+=======
+html6
+>>>>>>> a9d4d2cf222eb7f41191386b3f080e50556e2719
